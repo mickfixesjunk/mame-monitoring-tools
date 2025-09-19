@@ -22,7 +22,7 @@ AT THIS POINT NO HYPER TRACING IS ACTIVE, ITS JUST THE SAME AS REGULAR MAME IN D
 - Step 4. Select the main Mame debug window and press F5 to start runing the emulation
 - Step 5. When you have reached the point where you want to HyperTrace, press CTRL+SHIFT+D
 
-THIS IS VERY CPUY INTENSIVE - a 500 MB rolling log file will be created
+THIS IS VERY CPU INTENSIVE - a 500 MB rolling log file will be created
 
 At this point MMT will start creating the HYperTrace, and a lot of logging will occur
 
